@@ -1,0 +1,3 @@
+Title: IGSO - In-Game Server Options
+Author: Fooly Cooly
+A utility used to configure your server in-game.
