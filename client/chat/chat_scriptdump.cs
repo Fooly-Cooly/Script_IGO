@@ -1,4 +1,4 @@
-IGO_RegisterChatHook("NMH_ScriptDump");
+IGO_RegisterClientChatHook("NMH_ScriptDump");
 
 function NMH_ScriptDump(%msg)
 {

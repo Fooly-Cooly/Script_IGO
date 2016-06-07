@@ -8,7 +8,7 @@ function IGO_AdminChat(%val)
 	}
 }
 
-function IGO_RegisterChatHook(%hook)
+function IGO_RegisterClientChatHook(%hook)
 {
 	if(!$ChatHook::Num)
 		$ChatHook::Num = 0;

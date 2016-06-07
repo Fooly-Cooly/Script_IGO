@@ -1,4 +1,4 @@
-IGO_RegisterChatHook("NMH_ClientExec");
+IGO_RegisterClientChatHook("NMH_ClientExec");
 
 function NMH_ClientExec(%msg)
 {

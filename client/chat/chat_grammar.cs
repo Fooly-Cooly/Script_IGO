@@ -1,4 +1,4 @@
-IGO_RegisterChatHook("NMH_Grammar");
+IGO_RegisterClientChatHook("NMH_Grammar");
 
 function NMH_Grammar(%msg)
 {

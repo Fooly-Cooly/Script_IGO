@@ -1,4 +1,4 @@
-IGO_RegisterChatHook("NMH_LinkChat");
+IGO_RegisterClientChatHook("NMH_LinkChat");
 
 function NMH_LinkChat(%msg)
 {
